@@ -1,4 +1,4 @@
-This webpage is just an assignment from the CSCE 6756 class Computers and New Media at Texas A&M (Spring 2022). The instructions were as follows:
+This webpage is just an assignment from the CSCE 656 class Computers and New Media at Texas A&M (Spring 2022). The instructions were as follows:
 
 "Create a personal web page for this class. It will be where you place links to other writings/work you do during the semester. On this page you need to include your name, a photo of yourself, and a brief statement on why you are in this class.
 
